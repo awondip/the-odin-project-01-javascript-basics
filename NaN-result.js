@@ -4,11 +4,9 @@
 let a = 10;
 let b = "mango";
 console.log(a / b)
-
 let x = NaN;
 let y = 5;
 console.log(x + y)
-
 let c = NaN;
 let d = "5";
 let z = x + y;
